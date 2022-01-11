@@ -1,0 +1,13 @@
+h1 {
+    color: blue;
+}
+.thumbnail {
+    display: inline-block; /* ここがポイント */
+    height: 80px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+.thumbnail img {
+    height: 100%;
+    width: 70px;
+}
